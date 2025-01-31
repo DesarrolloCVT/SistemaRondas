@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVTSistemaRondas", "CVTSistemaRondas\CVTSistemaRondas.csproj", "{AF2B2234-A49C-4BC0-AF76-8B7A92A29EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2B2234-A49C-4BC0-AF76-8B7A92A29EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2B2234-A49C-4BC0-AF76-8B7A92A29EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2B2234-A49C-4BC0-AF76-8B7A92A29EAF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AF2B2234-A49C-4BC0-AF76-8B7A92A29EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2B2234-A49C-4BC0-AF76-8B7A92A29EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2B2234-A49C-4BC0-AF76-8B7A92A29EAF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F728A8-9307-4C72-852D-A5C37BE15DA1}
+	EndGlobalSection
+EndGlobal
